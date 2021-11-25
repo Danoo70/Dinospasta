@@ -1,0 +1,39 @@
+body
+{
+font-family: Arial;
+font-size: 15;
+color: white;
+background:url(https://images.pexels.com/photos/6287486/pexels-photo-6287486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat;
+background-size: cover;
+}
+
+
+.Box
+{
+width: 900px;
+float: right;
+border: 1px solid black;
+
+}
+.Box ul li
+{
+width: 120px;
+float: left;
+margin: 10px auto;
+text-align: center;
+}
+
+.Box ul li a
+{
+text-decoration: none;
+color: darkgrey; 
+}
+
+.Välkommen{
+width: 500px;
+height: 600px;
+background-color: black;
+opacity: 0,9;
+padding: 55px;
+}
+
